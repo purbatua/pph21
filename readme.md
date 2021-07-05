@@ -22,4 +22,4 @@ Test
 npm test
 ```
 
-For more details, see [examples](https://github.com/purbatua/pph21/blob/main/src/examples/index.ts).
+For more details, see [examples](https://github.com/purbatua/pph21/blob/master/src/examples/index.ts).
